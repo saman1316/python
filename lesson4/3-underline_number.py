@@ -1,0 +1,2 @@
+carprice=14_000_000_000
+print(carprice)
