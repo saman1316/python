@@ -1,4 +1,4 @@
-phones=['apple', 'honor', 'huwawi', 'nokia', 'samsung', 'xiami']
+
 print("here is the good phones list:")
 print(phones)
 print("here is the sorted phones list:")
