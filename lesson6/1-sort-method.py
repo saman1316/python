@@ -2,7 +2,7 @@ phones=["apple","samsung","nokia","huwawi","xiami","honor"]
 #sort=a-z
 phones.sort()
 print(phones)
-#z-a
+#z_a
 phones.sort(reverse=True)
 print(phones)
 
